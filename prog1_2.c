@@ -7,7 +7,7 @@ int main(void)
     char ch;
     printf("Input:");
     scanf("%c",&ch);
-    printf("ch=%c,ASCII %d\n",ch,ch);
+    printf("ch=%c,The ASCII is %d\n",ch,ch);
     system("pause");
     return 0;
 }
